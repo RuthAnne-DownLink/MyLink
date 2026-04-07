@@ -1,6 +1,4 @@
-https://mega.nz/folder/eoggDZaK#u-cPX-Lp0Uca_S-PtFupDA
-
-https://drive.google.com/drive/folders/1SxlZDU6fPIYehE_hVwxUmyI5LPDqGwlu?usp=drive_link
+https://drive.google.com/drive/folders/1-jgKOn8imhhA4AhkyzUe2mdzS1hcf8Gv
 
 //----- GIGAFILE.NU -------------
 https://119.gigafile.nu/0328-p750dbaa788b015ab9fd8ce050e8d3fa8 	(STM Packages - March 28, 2026 (Saturday))
@@ -33,12 +31,5 @@ https://45.gigafile.nu/0703-l8a9d30a6beb4bb311791497e8d40d044	(2a05 - ML(Algorit
 https://45.gigafile.nu/0704-g073e55b9a630be83057bf856d94c2208	(4037 - Digi-Key Datasheets2.7z(56.3G) 2026/07/04)
 https://57.gigafile.nu/0705-p7e25fb73bdaa4dcebdfd70264d6bfdb9	(650c - Rasbian.tar.zst(51G)	2026/07/05)
 https://57.gigafile.nu/0705-la601fe250022476f408ef7d4dbcd0ed8	(0ce6 - tinyML-offline-full.tar.gz(3G) 2026/07/05)
-
-
-https://drive.google.com/drive/folders/1YNjBQJM5nfrg-s95Vi49kdz_klzkOVNj
-
-https://drive.google.com/drive/folders/1-jgKOn8imhhA4AhkyzUe2mdzS1hcf8Gv
-
-https://drive.google.com/drive/folders/1W2Y59ZDJqIlnDjMU60HVXjfxAwG1GntA?usp=sharing
-
-
+https://60.gigafile.nu/0708-h30f6b481d204c6ebbe073f2031cf46d5	(e0d1 - ubuntu.7z(48G)		2026/07/08)
+https://88.gigafile.nu/0405-j8889d85b8d12aa4e0c743f0767f04733	(49cb - python.7z(8G)		2026/07/09)
