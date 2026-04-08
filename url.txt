@@ -1,7 +1,7 @@
 https://drive.google.com/drive/folders/1-jgKOn8imhhA4AhkyzUe2mdzS1hcf8Gv
 https://drive.google.com/drive/folders/1SxlZDU6fPIYehE_hVwxUmyI5LPDqGwlu
 
-https://63.gigafile.nu/0606-i39b52fb48b4b8eb201f8968bad811bf7	(de55 - kali-linux.7z (43.6G) 2026/6/6)
+https://106.gigafile.nu/0718-i3f54b8a51ef0fc3ded4d331b9a4381ea	(e5e8 - KaliLinux.7z(43.6G))
 https://84.gigafile.nu/0605-p7777a1b43835cdb4693b2dffd1c4c4d4	(6ad6 - buildroot_full.7z (30.2G) 2026/6/5)
 https://93.gigafile.nu/0611-g52083e54a22807900de89c78b41d0bf4	(4446 - yocto-full.7z (74.9G) 2026/6/11)
 https://88.gigafile.nu/0626-r8434c7108216236001c55311ef2d9024   (d22f - openwrt-factory.7z (5G)  2026/6/26)
