@@ -1,19 +1,5 @@
 https://drive.google.com/drive/folders/1-jgKOn8imhhA4AhkyzUe2mdzS1hcf8Gv
 
-//----- GIGAFILE.NU -------------
-https://119.gigafile.nu/0328-p750dbaa788b015ab9fd8ce050e8d3fa8 	(STM Packages - March 28, 2026 (Saturday))
-https://119.gigafile.nu/0328-f69cd3851a256c31b955654b4f5729123 	(MATLAB New - March 28, 2026)
-https://119.gigafile.nu/0328-g5b8f062cde6d2c8b8bc4d99fe97a672f  (Other SemiConductors - March 28, 2026)
-https://1.gigafile.nu/0401-e846ade05425c537f5891410f4a0a9170	(1ca8 - Design Tools - April 1, 2026)
-https://54.gigafile.nu/0419-je7a9f5356f34f2e00141f1e6d9897d1a	(ddea - Design Tools (29GB)- April 19, 2026)
-https://96.gigafile.nu/0427-n038580a6e3018942b2efb7129236fe8c	(20b1- SBC Collection 2026年4月27日)
-https://82.gigafile.nu/0429-i4fceeab095d5edc17d0c8df869c25365	(b9b4 - Python Test 2026/4/29)
-https://82.gigafile.nu/0430-pf1454cf11e1b7cfa53ab2bbde9774eab	(1a81 - 01.STMCOMMONTOOLs 2026/4/30)
-https://80.gigafile.nu/0501-o4311e046daaa5b4d90a483552e84ee30	(5b6e - MCUTools.zip 2026/5/1)
-https://66.gigafile.nu/0505-mb30e55bacb2c7a70a083f8720f609ef8	(9688 - Resource1.zip 2026/5/5)
-https://66.gigafile.nu/0505-fea08616d13fe32a99248222a591138d8   (2e5b - Resource2.zip 2026/5/5)
-https://102.gigafile.nu/0604-b50a031d494c12929a50ba156716065c8  (6a27 - 01.Binary.zip 2026/6/4)
-
 https://84.gigafile.nu/0605-p7777a1b43835cdb4693b2dffd1c4c4d4	(6ad6 - buildroot_full.7z (30.2G) 2026/6/5)
 https://63.gigafile.nu/0606-i39b52fb48b4b8eb201f8968bad811bf7	(de55 - kali-linux.7z (43.6G) 2026/6/6)
 https://93.gigafile.nu/0611-g52083e54a22807900de89c78b41d0bf4	(4446 - yocto-full.7z (74.9G) 2026/6/11)
